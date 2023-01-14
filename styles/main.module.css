@@ -1,0 +1,94 @@
+.Main {
+    align-content: bottom;
+    background-color: dimgrey;
+}
+
+.Links {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 75px;
+    justify-content: space-between;
+}
+
+.mailCV {
+    padding-top: 50px;
+    padding-bottom: 75px;
+    text-align: center;
+}
+
+.btn1 {
+    background-color: gray;
+    color: white;
+    font-size: 25px;
+    margin-right: 25px;
+    padding: 15px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 50%;
+    width: 100%;
+}
+
+.btn2 {
+    background-color: gray;
+    color: white;
+    margin-left: 25px;
+    font-size: 25px;
+    padding: 15px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 50%;
+    width: 100%;
+}
+
+.paragraph {
+    text-align: center;
+    background-color: burlywood;
+    color: black;
+    border-radius: 10%;
+    margin-left: 300px;
+    font-size: 18px;
+    margin-right: 300px;
+    margin-top: 100px;
+    padding: 50px;
+    overflow: hidden; 
+}
+
+.head {
+    align-content: space-evenly;
+}
+
+.topMainPage {
+    background-color: burlywood;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 100px;
+    border-radius: 15%;
+}
+.MyImage {
+    float: middle; 
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1px; 
+    width: 400px;
+    border-radius: 50%; 
+    overflow: hidden; 
+  }
+  .Contact {
+    padding-top: 40px;
+    float:left;
+    padding-left: 25%;
+    margin-bottom: 75px;
+  }
+
+  .Resume {
+    padding-top: 40px;
+    float:right;
+    padding-right: 25%;
+    margin-bottom: 75px;
+  }
+
+  .ImageAndLinks {
+    padding-top: 50px;
+  }

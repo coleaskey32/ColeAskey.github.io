@@ -37,7 +37,7 @@ export default function Home() {
 
           <div>
             <div className={styles.Contact}><a id="emailMe" href="mailto:coleaskey32@gmail.com"> <button className={styles.btn1}>Contact Me</button></a></div>
-            <div className={styles.Resume}><a href='https://pdfhost.io/v/P5N5L7tl._Cole_Askey_Resume' download><button className={styles.btn2}>Download CV</button></a></div>
+            <div className={styles.Resume}><a href='https://pdfhost.io/v/SbVkWFn1d_Cole_Askey_Resume' download><button className={styles.btn2}>Download CV</button></a></div>
           </div>
     </div>
   )

@@ -29,9 +29,13 @@ export default function Home() {
         </div>
           <div>
             <p className= {styles.paragraph}>
-              Hey there, thank you for dropping by. My name is Cole Askey and I am a Computer Engineering student at Penn State Behrend. I am currently working at Accuride as an Engineering intern.
-              I've been programming for two years now and have experience with C++, Python, and Javascript.
-              I'm open for a Software Engineering Internship for the summer of 2023. Please check out my resume in the link below and email me if you would like to hear more about what I can bring and my past experiences.
+              Hello, I'm Cole Askey, a rising senior majoring in Computer Engineering at Penn State Behrend. I am actively seeking a Software Engineering Internship for the summer of 2023.
+
+With a strong foundation in software development, I am proficient in several programming languages including Java, C++, Python, JavaScript, and MATLAB. I have a passion for software engineering and embedded systems, and I aspire to pursue a career in these fields.
+
+One area where I excel is in digital design using VHDL. I enjoy utilizing my knowledge to create innovative and practical solutions through embedded projects.
+
+If you have any opportunities or would like to learn more about my experience and skills, please feel free to reach out to me through the links below. I'm excited to connect and explore potential collaborations.
             </p>
           </div>
 

@@ -1,6 +1,6 @@
 .Main {
     align-content: bottom;
-    background-color: dimgrey;
+    background-color: blue;
 }
 
 .Links {
@@ -17,29 +17,22 @@
 }
 
 .btn1 {
-    background-color: gray;
-    color: white;
-    font-size: 25px;
-    margin-right: 25px;
-    padding: 15px;
+    background-color: #c2fbd7;
+    border-radius: 100px;
+    box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+    color: green;
     cursor: pointer;
-    outline: none;
-    border: none;
-    border-radius: 50%;
-    width: 100%;
-}
-
-.btn2 {
-    background-color: gray;
-    color: white;
-    margin-left: 25px;
-    font-size: 25px;
-    padding: 15px;
-    cursor: pointer;
-    outline: none;
-    border: none;
-    border-radius: 50%;
-    width: 100%;
+    display: inline-block;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
 }
 
 .paragraph {
@@ -76,7 +69,7 @@
     overflow: hidden; 
   }
   .Contact {
-    padding-top: 40px;
+    padding-top:  40px;
     float:left;
     padding-left: 25%;
     margin-bottom: 75px;
